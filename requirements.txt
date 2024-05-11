@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-image 
+scikit-learn==1.4.2
+langchain==0.1.19
+langchain-community==0.0.38
+langchain-core==0.1.52
+langchain-text-splitters==0.0.1
+matplotlib 
+matplotlib-inline 
+plotly
+scipy==1.11.1
