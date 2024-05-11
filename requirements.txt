@@ -10,3 +10,4 @@ matplotlib
 matplotlib-inline 
 plotly
 scipy==1.11.1
+seaborn==0.12.2
